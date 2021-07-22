@@ -6,4 +6,4 @@ if I couldn't solve it now, do it another day.
 okay, here's some idea about this project:
 
 when I checking the website
-[strangePic]
+[strangePic](https://github.com/zeenaz/data_py/blob/main/images_wow/download_tse.png)
