@@ -18,3 +18,7 @@ kind of like this
 plus the next graph
 
 ![pic](https://github.com/zeenaz/data_py/blob/main/images_wow/case_map_one.PNG)
+
+I also wanted to show the trends of covid like this:
+
+![pic](https://www.visualcapitalist.com/wp-content/uploads/2021/03/COVID-Variant_share-2.jpg)
