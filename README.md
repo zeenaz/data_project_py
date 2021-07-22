@@ -22,3 +22,6 @@ plus the next graph
 I also wanted to show the trends of covid like this:
 
 ![pic](https://www.visualcapitalist.com/wp-content/uploads/2021/03/COVID-Variant_share-2.jpg)
+
+I checked the data, then I realized I can categorize them into [overseas] [locally](Locally acquired - linked to known case or cluster)
+I found a category called [unknow_local](Locally acquired - no links to known case or cluster)
