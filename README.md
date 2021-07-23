@@ -23,5 +23,16 @@ I also wanted to show the trends of covid like this:
 
 ![pic](https://www.visualcapitalist.com/wp-content/uploads/2021/03/COVID-Variant_share-2.jpg)
 
-I checked the data, then I realized I can categorize them into **Overseas**, **Locally** -- _(Locally acquired - linked to known case or cluster)_
-I found a category called **unknow_local** -- _(Locally acquired - no links to known case or cluster)_
+I checked the data, then I realized I can categorize them into **Overseas**, **Locally** -- _(Locally acquired - linked to known case or cluster)_, and **unknow_local** -- _(Locally acquired - no links to known case or cluster)_
+
+Here are some TODOs:
+
+1. clean the data, try to fix the missing data error - try to identify as **unclear**
+2. link the _postcode_ number with the map
+3. figure out the relation between color's _shade_ and the infected _number_
+   ...
+
+Here are some questions;
+
+1. how to display oversea lines?
+2. how to display known local lines?
